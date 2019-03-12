@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{DDA1AD12-186D-46BC-87EE-CA22A8D14C40}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BooksApi/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="BooksApi/Models.cs" Line="1" Column="1" />
+      <File FileName="BooksApi/Models/Book.cs" Line="17" Column="9" />
+      <File FileName="BooksApi/Services/BookService.cs" Line="19" Column="9" />
+      <File FileName="BooksApi/appsettings.json" Line="12" Column="46" />
+      <File FileName="BooksApi/Startup.cs" Line="29" Column="47" />
+      <File FileName="BooksApi/Controllers/BooksController.cs" Line="76" Column="2" />
+      <File FileName="BooksApi/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="BooksApi/Program.cs" Line="1" Column="1" />
+      <File FileName="BooksApi/Controllers/ValuesController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BooksApi" expanded="True">
+            <Node name="BooksApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ValuesController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Workout PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+/Users/brocket12/Projects/BooksApi/BooksApi/bin/Debug/netcoreapp2.2/WorkoutApi.deps.json
+/Users/brocket12/Projects/BooksApi/BooksApi/bin/Debug/netcoreapp2.2/WorkoutApi.runtimeconfig.json
+/Users/brocket12/Projects/BooksApi/BooksApi/bin/Debug/netcoreapp2.2/WorkoutApi.runtimeconfig.dev.json
+/Users/brocket12/Projects/BooksApi/BooksApi/bin/Debug/netcoreapp2.2/WorkoutApi.dll
+/Users/brocket12/Projects/BooksApi/BooksApi/bin/Debug/netcoreapp2.2/WorkoutApi.pdb
+/Users/brocket12/Projects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/WorkoutApi.csproj.CoreCompileInputs.cache
+/Users/brocket12/Projects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/WorkoutApi.RazorAssemblyInfo.cache
+/Users/brocket12/Projects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/WorkoutApi.RazorAssemblyInfo.cs
+/Users/brocket12/Projects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/WorkoutApi.AssemblyInfoInputs.cache
+/Users/brocket12/Projects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/WorkoutApi.AssemblyInfo.cs
+/Users/brocket12/Projects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/WorkoutApi.RazorTargetAssemblyInfo.cache
+/Users/brocket12/Projects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/WorkoutApi.dll
+/Users/brocket12/Projects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/WorkoutApi.pdb
+/Users/brocket12/Projects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/WorkoutApi.csprojAssemblyReference.cache
